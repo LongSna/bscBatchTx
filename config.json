@@ -1,0 +1,13 @@
+{
+  "private_keys": [
+    "your_private_key_1_without_0x_prefix",
+    "your_private_key_2_without_0x_prefix"
+  ],
+  "rpc_url": "https://bsc-dataseed1.binance.org/",
+  "chain_id": 56,
+  "to_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "value": "0",
+  "gas_limit": 1000000,
+  "gas_price": "5000000000",
+  "data": ""
+} 
